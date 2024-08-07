@@ -8,6 +8,9 @@ This application is designed to predict machine failure for predictive maintenan
 This project is an exemplary demonstration of applying advanced machine learning (ML) techniques and best practices in a real-world predictive maintenance system. It features a sophisticated end-to-end ML pipeline that integrates MLOps practices to ensure scalability, maintainability, and efficient deployment in production environments.
 
 
+![alt text](https://github.com/ft-sreedeep/predictive-maintenance/blob/main/docs/Screenshot%202024-07-21%20232554.png)
+
+
 ## 2. Project Setup
 
 * **Version Control and Collaboration:** Leveraged GitHub for robust version control, enabling seamless collaboration and code management.
